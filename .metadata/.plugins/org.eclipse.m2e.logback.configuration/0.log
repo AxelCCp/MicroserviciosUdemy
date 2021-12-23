@@ -375,3 +375,500 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2021-12-22 13:43:01,897 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-12-22 13:43:01,898 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2021-12-22 13:43:01,899 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 13:43:01,900 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 13:43:01,900 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-zuul-server2\src\test\resources
+2021-12-22 13:43:02,137 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 13:43:02,138 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-22 13:43:02,139 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 13:43:02,139 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 13:43:02,139 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-zuul-server8\src\test\resources
+2021-12-22 14:34:35,224 [Worker-34: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springboot.app.oauth:springboot-servicio-oauth:0.0.1-SNAPSHOT @ C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\pom.xml.
+2021-12-22 14:34:35,620 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:34:35,620 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:34:35,621 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:34:35,621 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:34:35,621 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:34:35,621 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:34:35,622 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\src\test\resources
+2021-12-22 14:34:36,832 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/oauth/spring-security-oauth2/2.3.8.RELEASE/spring-security-oauth2-2.3.8.RELEASE-sources.jar
+2021-12-22 14:34:36,898 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:34:36,898 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:34:36,898 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-22 14:34:36,899 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:34:36,900 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:34:36,900 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:34:36,900 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\src\test\resources
+2021-12-22 14:34:36,904 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/oauth/spring-security-oauth2/2.3.8.RELEASE/spring-security-oauth2-2.3.8.RELEASE-sources.jar
+2021-12-22 14:34:36,907 [Worker-38: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security.oauth:spring-security-oauth2:2.3.8.RELEASE
+2021-12-22 14:34:36,994 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/5.6.1/spring-security-core-5.6.1-sources.jar
+2021-12-22 14:34:37,089 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/5.6.1/spring-security-core-5.6.1-sources.jar
+2021-12-22 14:34:37,091 [Worker-38: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-core:5.6.1
+2021-12-22 14:34:37,166 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/5.6.1/spring-security-config-5.6.1-sources.jar
+2021-12-22 14:34:37,275 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/5.6.1/spring-security-config-5.6.1-sources.jar
+2021-12-22 14:34:37,277 [Worker-38: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-config:5.6.1
+2021-12-22 14:34:37,357 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/5.6.1/spring-security-web-5.6.1-sources.jar
+2021-12-22 14:34:37,473 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/5.6.1/spring-security-web-5.6.1-sources.jar
+2021-12-22 14:34:37,474 [Worker-38: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-web:5.6.1
+2021-12-22 14:34:37,545 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13-sources.jar
+2021-12-22 14:34:37,642 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13-sources.jar
+2021-12-22 14:34:37,644 [Worker-38: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.jackson:jackson-mapper-asl:1.9.13
+2021-12-22 14:34:37,711 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.9.13/jackson-core-asl-1.9.13-sources.jar
+2021-12-22 14:34:37,786 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.9.13/jackson-core-asl-1.9.13-sources.jar
+2021-12-22 14:34:37,787 [Worker-38: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.jackson:jackson-core-asl:1.9.13
+2021-12-22 14:34:38,039 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:34:38,039 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:34:38,039 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:34:38,039 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:34:38,040 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:34:38,040 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:34:38,040 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\src\test\resources
+2021-12-22 14:42:05,520 [Worker-34: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springboot.app.oauth:springboot-servicio-oauth:0.0.1-SNAPSHOT @ C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\pom.xml.
+2021-12-22 14:42:05,754 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:42:05,754 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:42:05,755 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:42:05,755 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:42:05,755 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:42:05,755 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:42:05,755 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\src\test\resources
+2021-12-22 14:42:06,974 [Worker-36: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-jwt/1.1.1.RELEASE/spring-security-jwt-1.1.1.RELEASE-sources.jar
+2021-12-22 14:42:07,007 [Worker-36: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-jwt/1.1.1.RELEASE/spring-security-jwt-1.1.1.RELEASE-sources.jar
+2021-12-22 14:42:07,009 [Worker-36: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-jwt:1.1.1.RELEASE
+2021-12-22 14:42:07,200 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:42:07,200 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:42:07,200 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-22 14:42:07,201 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:42:07,202 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:42:07,202 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:42:07,202 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\src\test\resources
+2021-12-22 14:42:17,272 [Worker-42: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springboot.app.oauth:springboot-servicio-oauth:0.0.1-SNAPSHOT @ C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\pom.xml.
+2021-12-22 14:42:17,473 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:42:17,473 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:42:17,473 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:42:17,474 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:42:17,474 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:42:17,474 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:42:17,474 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\src\test\resources
+2021-12-22 14:42:53,621 [Worker-36: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springboot.app.oauth:springboot-servicio-oauth:0.0.1-SNAPSHOT @ C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\pom.xml.
+2021-12-22 14:42:53,824 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:42:53,824 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:42:53,824 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-22 14:42:53,827 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:42:53,828 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:42:53,828 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:42:53,828 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\src\test\resources
+2021-12-22 14:50:37,776 [Worker-49: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons8: com.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-usuarios-commons8/target/classes
+2021-12-22 14:50:37,828 [Worker-48: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springboot.app.oauth:springboot-servicio-oauth:0.0.1-SNAPSHOT @ C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\pom.xml.
+2021-12-22 14:50:37,924 [Worker-48: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons8: com.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-usuarios-commons8/target/classes
+2021-12-22 14:50:38,051 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:50:38,051 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:50:38,051 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-22 14:50:38,053 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:50:38,054 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:50:38,054 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:50:38,054 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\src\test\resources
+2021-12-22 14:50:39,337 [Worker-47: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons8: com.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-usuarios-commons8/target/classes
+2021-12-22 14:50:39,339 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:50:39,339 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:50:39,339 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-22 14:50:39,340 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:50:39,341 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:50:39,341 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:50:39,341 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\src\test\resources
+2021-12-22 14:52:03,305 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:03,305 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:03,306 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:03,306 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:03,307 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:03,307 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:03,307 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-commons7\src\test\resources
+2021-12-22 14:52:03,533 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:03,533 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:03,533 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:03,533 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:03,534 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:03,534 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:03,534 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-config-server5\src\test\resources
+2021-12-22 14:52:03,710 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:03,710 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:03,710 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:03,711 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:03,711 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:03,711 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:03,711 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-eureka-server2\src\test\resources
+2021-12-22 14:52:03,865 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:03,865 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:03,865 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:03,865 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:03,866 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:03,866 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:03,866 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-gateway-server3\src\test\resources
+2021-12-22 14:52:04,075 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:04,075 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:04,075 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:04,075 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:04,076 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:04,076 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:04,076 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-gateway-server4\src\test\resources
+2021-12-22 14:52:04,410 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:04,412 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:04,412 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:04,414 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:04,414 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-item\src\test\resources
+2021-12-22 14:52:04,632 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:04,633 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:04,633 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:04,633 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:04,633 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-item2\src\test\resources
+2021-12-22 14:52:04,897 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:04,897 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:04,897 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:04,898 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:04,898 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-item3\src\test\resources
+2021-12-22 14:52:05,059 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:05,059 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:05,059 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:05,059 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:05,060 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:05,060 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:05,060 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-item4\src\test\resources
+2021-12-22 14:52:05,392 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:05,392 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:05,392 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:05,392 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:05,392 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:05,392 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:05,392 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-item5\src\test\resources
+2021-12-22 14:52:05,553 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:05,553 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:05,553 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:05,553 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:05,554 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:05,554 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:05,554 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-item6\src\test\resources
+2021-12-22 14:52:05,726 [Worker-47: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons7: com.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-commons7/target/classes
+2021-12-22 14:52:05,741 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:05,741 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:05,741 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:05,741 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:05,742 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:05,742 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:05,742 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-item7\src\test\resources
+2021-12-22 14:52:06,037 [Worker-51: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons8: com.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-usuarios-commons8/target/classes
+2021-12-22 14:52:06,039 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:06,039 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:06,039 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:06,039 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:06,040 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:06,040 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:06,040 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\src\test\resources
+2021-12-22 14:52:06,137 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:06,137 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:06,137 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:06,137 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:06,138 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:06,138 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:06,138 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-productos\src\test\resources
+2021-12-22 14:52:06,307 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:06,307 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:06,307 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:06,308 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:06,308 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:06,308 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:06,308 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-productos2\src\test\resources
+2021-12-22 14:52:06,569 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:06,569 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:06,569 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:06,569 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:06,570 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:06,570 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:06,570 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-productos3\src\test\resources
+2021-12-22 14:52:06,708 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:06,709 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:06,709 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:06,709 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:06,709 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:06,709 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:06,709 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-productos4\src\test\resources
+2021-12-22 14:52:06,835 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:06,835 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:06,835 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:06,835 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:06,836 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:06,836 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:06,836 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-productos5\src\test\resources
+2021-12-22 14:52:06,971 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:06,971 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:06,971 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:06,971 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:06,972 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:06,972 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:06,972 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-productos6\src\test\resources
+2021-12-22 14:52:07,113 [Worker-50: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons7: com.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-commons7/target/classes
+2021-12-22 14:52:07,123 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:07,123 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:07,124 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:07,124 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:07,124 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:07,124 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:07,124 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-productos7\src\test\resources
+2021-12-22 14:52:07,203 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:07,204 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:07,204 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:07,204 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:07,204 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:07,204 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:07,204 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-usuarios-commons8\src\test\resources
+2021-12-22 14:52:07,335 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:07,335 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:07,335 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:07,335 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:07,336 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:07,336 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:07,336 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-usuarios8\src\test\resources
+2021-12-22 14:52:07,459 [Worker-50: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons8: com.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-usuarios-commons8/target/classes
+2021-12-22 14:52:07,470 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:07,470 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:07,470 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:07,470 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:07,470 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:07,470 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:07,470 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-usuarios8.1\src\test\resources
+2021-12-22 14:52:07,673 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:07,675 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:07,675 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:07,675 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:07,676 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-zuul-server2\src\test\resources
+2021-12-22 14:52:07,954 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:07,954 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:07,954 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:07,955 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:07,955 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-zuul-server8\src\test\resources
+2021-12-22 14:52:45,770 [Worker-50: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons8: com.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-usuarios-commons8/target/classes
+2021-12-22 14:52:45,771 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:45,772 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:45,772 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-22 14:52:45,775 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 14:52:45,775 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 14:52:45,775 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 14:52:45,776 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\src\test\resources
+2021-12-22 16:00:14,697 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 16:00:14,697 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 16:00:14,698 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-22 16:00:14,720 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 16:00:14,721 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 16:00:14,721 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 16:00:14,721 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\src\test\resources
+2021-12-22 16:01:30,903 [Worker-60: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springboot.app.oauth:springboot-servicio-oauth:0.0.1-SNAPSHOT @ C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\pom.xml.
+2021-12-22 16:01:31,131 [Worker-60: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons8: com.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-usuarios-commons8/target/classes
+2021-12-22 16:01:31,349 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 16:01:31,349 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 16:01:31,349 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 16:01:31,350 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 16:01:31,350 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 16:01:31,350 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 16:01:31,350 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\src\test\resources
+2021-12-22 16:08:06,437 [Worker-62: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons8: com.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-usuarios-commons8/target/classes
+2021-12-22 16:08:06,440 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 16:08:06,440 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 16:08:06,440 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-22 16:08:06,443 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 16:08:06,444 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 16:08:06,444 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 16:08:06,444 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\src\test\resources
+2021-12-22 16:10:02,377 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 16:10:02,377 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 16:10:02,378 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-22 16:10:02,380 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 16:10:02,381 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 16:10:02,381 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 16:10:02,381 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\src\test\resources
+2021-12-22 16:10:45,231 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 16:10:45,232 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 16:10:45,232 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-22 16:10:45,234 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 16:10:45,235 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 16:10:45,235 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 16:10:45,235 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\src\test\resources
+2021-12-22 16:11:19,888 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 16:11:19,888 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 16:11:19,888 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-22 16:11:19,891 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 16:11:19,892 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 16:11:19,892 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 16:11:19,892 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\src\test\resources
+2021-12-22 16:11:59,569 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 16:11:59,569 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 16:11:59,570 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-22 16:11:59,572 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 16:11:59,572 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 16:11:59,572 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 16:11:59,572 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\src\test\resources
+2021-12-22 16:29:35,378 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 16:29:35,378 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 16:29:35,379 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-22 16:29:35,382 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 16:29:35,383 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 16:29:35,383 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 16:29:35,383 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\src\test\resources
+2021-12-22 16:30:02,081 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 16:30:02,081 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 16:30:02,082 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-22 16:30:02,084 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 16:30:02,085 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 16:30:02,085 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 16:30:02,085 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\src\test\resources
+2021-12-22 16:33:12,183 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 16:33:12,183 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 16:33:12,184 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-22 16:33:12,187 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 16:33:12,187 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 16:33:12,187 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 16:33:12,187 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\src\test\resources
+2021-12-22 16:37:14,597 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 16:37:14,597 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 16:37:14,598 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-22 16:37:14,601 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 16:37:14,601 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 16:37:14,602 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 16:37:14,602 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\src\test\resources
+2021-12-22 16:44:17,020 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 16:44:17,020 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 16:44:17,021 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-22 16:44:17,039 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 16:44:17,040 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 16:44:17,040 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 16:44:17,040 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\src\test\resources
+2021-12-22 16:48:52,449 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 16:48:52,449 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 16:48:52,450 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-22 16:48:52,463 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 16:48:52,464 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 16:48:52,464 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 16:48:52,464 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\src\test\resources
+2021-12-22 16:50:05,890 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-12-22 16:52:23,421 [Worker-13: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons8: com.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-usuarios-commons8/target/classes
+2021-12-22 16:52:23,683 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 16:52:23,683 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 16:52:23,693 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-22 16:52:23,719 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-22 16:52:23,723 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 16:52:23,723 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 16:52:23,723 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\src\test\resources
+2021-12-22 16:54:36,796 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 16:54:36,796 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 16:54:36,797 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-22 16:54:36,800 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-22 16:54:36,802 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 16:54:36,802 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 16:54:36,802 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-usuarios8\src\test\resources
+2021-12-22 17:03:46,293 [Worker-22: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons8: com.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-usuarios-commons8/target/classes
+2021-12-22 17:20:35,291 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 17:20:35,291 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 17:20:35,291 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-22 17:20:35,317 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-22 17:20:35,320 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 17:20:35,320 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-22 17:20:35,320 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-usuarios8.1\src\test\resources
+2021-12-23 05:23:32,835 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-12-23 05:37:03,855 [Worker-12: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-usuarios-commons8: com.springboot.app.usuarios.commons:springboot-servicio-usuarios-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-usuarios-commons8/target/classes
+2021-12-23 05:58:27,651 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-23 05:58:27,651 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-23 05:58:27,672 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-23 05:58:27,685 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-23 05:58:27,687 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-23 05:58:27,687 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-23 05:58:27,687 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\src\test\resources
+2021-12-23 06:02:25,813 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-23 06:02:25,813 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-23 06:02:25,815 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-23 06:02:25,819 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-23 06:02:25,820 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-23 06:02:25,820 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-23 06:02:25,820 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\src\test\resources
+2021-12-23 06:06:41,968 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-23 06:06:41,969 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-23 06:06:41,969 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-23 06:06:41,972 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-23 06:06:41,973 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-23 06:06:41,973 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-23 06:06:41,973 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\src\test\resources
+2021-12-23 06:08:28,493 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-23 06:08:28,493 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-23 06:08:28,493 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-23 06:08:28,495 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-23 06:08:28,496 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-23 06:08:28,496 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-23 06:08:28,497 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\src\test\resources
+2021-12-23 06:14:07,173 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-23 06:14:07,173 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-23 06:14:07,174 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-23 06:14:07,176 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-23 06:14:07,177 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-23 06:14:07,177 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-23 06:14:07,177 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\src\test\resources
+2021-12-23 06:17:53,809 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-23 06:17:53,809 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-23 06:17:53,810 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-23 06:17:53,812 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-23 06:17:53,813 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-23 06:17:53,813 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-23 06:17:53,813 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\src\test\resources
+2021-12-23 06:18:53,496 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-23 06:18:53,496 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-23 06:18:53,496 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-23 06:18:53,500 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-23 06:18:53,501 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-23 06:18:53,501 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-23 06:18:53,501 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\src\test\resources
+2021-12-23 06:18:59,934 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-23 06:18:59,935 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-23 06:18:59,935 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-23 06:18:59,938 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-23 06:18:59,940 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-23 06:18:59,940 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-23 06:18:59,940 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\src\test\resources
+2021-12-23 06:26:29,440 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-23 06:26:29,440 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-23 06:26:29,440 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-23 06:26:29,446 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-23 06:26:29,448 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-23 06:26:29,448 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-23 06:26:29,448 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\src\test\resources
+2021-12-23 06:27:03,271 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-23 06:27:03,271 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-23 06:27:03,271 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-23 06:27:03,274 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-23 06:27:03,274 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-23 06:27:03,275 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-23 06:27:03,275 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\src\test\resources
+2021-12-23 06:32:35,108 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-23 06:32:35,108 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-23 06:32:35,108 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-23 06:32:35,111 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-23 06:32:35,112 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-23 06:32:35,112 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-23 06:32:35,112 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\src\test\resources
+2021-12-23 06:46:28,237 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-23 06:46:28,237 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-23 06:46:28,238 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-23 06:46:28,247 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-23 06:46:28,247 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-23 06:46:28,248 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-23 06:46:28,248 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\src\test\resources
+2021-12-23 06:53:36,637 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-23 06:53:36,637 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-23 06:53:36,638 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-23 06:53:36,643 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-23 06:53:36,644 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-23 06:53:36,644 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-23 06:53:36,644 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\src\test\resources
+2021-12-23 07:07:55,658 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-23 07:07:55,658 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-23 07:07:55,658 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-23 07:07:55,662 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-23 07:07:55,663 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-23 07:07:55,663 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-23 07:07:55,663 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fanta\Documents\PROGRAMACION\MicroserviciosUdemy\springboot-servicio-oauth\src\test\resources
+2021-12-23 07:09:12,549 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-23 07:09:12,549 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-23 07:09:12,550 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource

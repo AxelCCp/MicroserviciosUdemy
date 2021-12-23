@@ -10,7 +10,6 @@ import com.springboot.app.usuarios.models.entity.Usuario;
 
 
 //PARA LA CONFIGURACIÓN DE USUARIO Y ROLE, PARA QUE SE MUESTREN LOS ID EN EL JSON.
-
 //SE IMPLEMENTA PARA CONFIGURAR LOS ID Y CUALQUIER CONFIGURACION CON EL REPOSITORIO REST.
 @Configuration
 public class RepositoryConfig implements RepositoryRestConfigurer{

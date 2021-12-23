@@ -7,10 +7,9 @@ import org.springframework.web.servlet.config.annotation.CorsRegistry;
 import com.springboot.app.commons.usuarios.models.entity.Usuario;
 import com.springboot.app.commons.usuarios.models.entity.Role;
 
-
 //PARA LA CONFIGURACIÓN DE USUARIO Y ROLE, PARA QUE SE MUESTREN LOS ID EN EL JSON.
-
 //SE IMPLEMENTA PARA CONFIGURAR LOS ID Y CUALQUIER CONFIGURACION CON EL REPOSITORIO REST.
+
 @Configuration
 public class RepositoryConfig implements RepositoryRestConfigurer{
 

@@ -17,6 +17,9 @@
 		<java.version>11</java.version>
 		<spring-cloud.version>2021.0.0</spring-cloud.version>
 	</properties>
+	
+	<!-- CLASE 90: DEPENDENCIAS AGREGADAS MANUALMENTE -->
+	
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
@@ -42,7 +45,42 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		
+		<!-- DEPENDENCIA DE OAUTH2 AGREGADA MANUALMENTE -->
+		<dependency>
+			<groupId>org.springframework.security.oauth</groupId>
+			<artifactId>spring-security-oauth2</artifactId>
+			<version>2.3.8.RELEASE</version>
+		</dependency>
+		
+		<!-- DEPENDENCIA DE JWT AGREGADA MANUALMENTE -->
+		<dependency>
+			<groupId>org.springframework.security</groupId>
+			<artifactId>spring-security-jwt</artifactId>
+			<version>1.1.1.RELEASE</version>
+		</dependency>
+		
+		<!-- DEPENDENCIA DE JAX B AGREGADA MANUALMENTE -->
+		<dependency>
+			<groupId>org.glassfish.jaxb</groupId>
+			<artifactId>jaxb-runtime</artifactId>
+		</dependency>
+		
+		<!-- SE AGREGA MANUALMENTE DEPENDENCIA DEL MICROSERVICIO USUARIO-COMMONS -->
+		<dependency>
+			<groupId>com.springboot.app.usuarios.commons</groupId>
+			<artifactId>springboot-servicio-usuarios-commons</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+			<!-- SE EXCLUYE JPA DESDE EL POM, YA QUE NO SE VA A USAR. COMMONS INCLUYE JPA POR LO TANTO HAY QUE QUITARLO -->
+			<exclusions>
+				<exclusion>
+					<groupId>org.springframework.boot</groupId>
+					<artifactId>spring-boot-starter-data-jpa</artifactId>
+				</exclusion>
+			</exclusions>
+		</dependency>
 	</dependencies>
+	
 	<dependencyManagement>
 		<dependencies>
 			<dependency>

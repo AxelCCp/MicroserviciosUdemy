@@ -1,0 +1,5 @@
+package com.springboot.app.oauth.clients;
+
+public interface UsuarioFeignClient {
+
+}

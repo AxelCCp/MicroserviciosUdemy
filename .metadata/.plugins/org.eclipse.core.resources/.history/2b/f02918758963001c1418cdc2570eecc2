@@ -1,0 +1,25 @@
+package com.springboot.app.oauth.services;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.security.core.userdetails.UserDetails;
+import org.springframework.security.core.userdetails.UserDetailsService;
+import org.springframework.security.core.userdetails.UsernameNotFoundException;
+
+import com.springboot.app.oauth.clients.UsuarioFeignClient;
+
+//IMPLEMENTA INTERFAZ PROPIA DE SPRING SECURITY
+
+public class UsuarioService implements UserDetailsService {
+	//ESTE MÉTODO OBTIENE AL USUARIO A TRAVÉS DEL USERNAME
+	@Override
+	public UserDetails loadUserByUsername(String username) throws UsernameNotFoundException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
+	//SE INYECTA BEAN DESDE LA INTERFAZ CLIENTE FEIGN QUE CONECTA CON USUARIO COMMONS
+	@Autowired
+	private UsuarioFeignClient client;
+	
+
+}

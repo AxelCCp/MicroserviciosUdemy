@@ -1,0 +1,5 @@
+package com.springboot.app.oauth.security;
+
+public class SpringSecurityConfig {
+
+}
