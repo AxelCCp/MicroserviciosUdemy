@@ -17,19 +17,23 @@ import org.springframework.stereotype.Service;
 import com.springboot.app.commons.usuarios.models.entity.Usuario;
 import com.springboot.app.oauth.clients.UsuarioFeignClient;
 
-//IMPLEMENTA INTERFAZ PROPIA DE SPRING SECURITY QUE ES DE AUTENTICACIÓN.
+//1.-ESTA ES LA CLASE SERVICE QUE SE ENCARGA DE AUTENTICAR AL USUARIO. IMPLEMENTA UNA INTERFAZ PROPIA DE SPRING SECURITY QUE ES DE AUTENTICACIÓN.
+
 @Service
 public class UsuarioService implements UserDetailsService {
-	//ESTE MÉTODO DEVUELVE UN OBJ USERDETAILS Y OBTIENE AL USUARIO A TRAVÉS DEL USERNAME. LA CLASE USERDETAILS REPRESENTA A UN USUARIO AUTENTICADO POR SPRING SECURIRTY.
+	
+	//3.- ESTE MÉTODO DEVUELVE UN OBJ USERDETAILS Y OBTIENE AL USUARIO A TRAVÉS DEL USERNAME. LA CLASE USERDETAILS REPRESENTA A UN USUARIO AUTENTICADO POR SPRING SECURITY.
 	@Override
 	public UserDetails loadUserByUsername(String username) throws UsernameNotFoundException {
 		Usuario usuario = client.findByUsername(username);
 		
+		//4.-SI NO EXISTE EL USUARIO, LANZA UN ERROR.
 		if(usuario==null) {
 			log.error("ERROR EN EL LOGIN. NO EXISTE EL USUARIO '" + username + "' EN EL SISTEMA");
 			throw new UsernameNotFoundException("ERROR EN EL LOGIN. NO EXISTE EL USUARIO '" + username + "' EN EL SISTEMA");
 		}
 		
+		//5.-SE OBTIENEN LOS ROLES DEL USUARIO ENCONTRADO.
 		//AUTHORITIES REPRESENTA A LOS ROLES QUE TIENE EL USUARIO. SON UNA LISTA MANY TO MANY Y EN SPRING SECURITY LA LISTA ES DEL TIPO GENÉRICO GrantedAuthority.
 		//LA LISTA DEL TIPO GENÉRICO GrantedAuthority SE LLENA CON ROLES DEL TIPO DE LA CLASE SimpleGrantedAuthority. ES POR ESTO Q SE HACE UNA CONVERSIÓN. 
 		//PEEK(): PARA MOSTRAR EL ROLE DEL USUARIO AUTENTICADO.
@@ -42,10 +46,9 @@ public class UsuarioService implements UserDetailsService {
 		return new User(usuario.getUsername(), usuario.getPassword(), usuario.getEnabled(), true, true, true, authorities);
 	}
 	
-	//SE INYECTA BEAN DESDE LA INTERFAZ CLIENTE FEIGN QUE CONECTA CON USUARIO COMMONS
+	//2.-SE INYECTA BEAN DESDE LA INTERFAZ CLIENTE FEIGN QUE CONECTA CON USUARIO COMMONS
 	@Autowired
 	private UsuarioFeignClient client;
-	
 	private Logger log = LoggerFactory.getLogger(UsuarioService.class);
 
 }
