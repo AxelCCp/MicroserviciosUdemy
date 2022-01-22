@@ -60,7 +60,7 @@
 			<version>1.1.1.RELEASE</version>
 		</dependency>
 		
-		<!-- DEPENDENCIA DE JAX B AGREGADA MANUALMENTE -->
+		<!-- DEPENDENCIA DE JAX B AGREGADA MANUALMENTE POR TENER LA VERSION 11 DE JAVA-->
 		<dependency>
 			<groupId>org.glassfish.jaxb</groupId>
 			<artifactId>jaxb-runtime</artifactId>
@@ -79,6 +79,17 @@
 				</exclusion>
 			</exclusions>
 		</dependency>
+		
+		<dependency>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-starter-bootstrap</artifactId>
+		</dependency>
+		
+		<dependency>
+       		<groupId>org.springframework.cloud</groupId>
+      		 <artifactId>spring-cloud-starter-config</artifactId>
+		</dependency>
+		
 	</dependencies>
 	
 	<dependencyManagement>

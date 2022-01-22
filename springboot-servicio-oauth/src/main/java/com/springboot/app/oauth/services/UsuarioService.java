@@ -20,7 +20,7 @@ import com.springboot.app.oauth.clients.UsuarioFeignClient;
 //1.-ESTA ES LA CLASE SERVICE QUE SE ENCARGA DE AUTENTICAR AL USUARIO. IMPLEMENTA UNA INTERFAZ PROPIA DE SPRING SECURITY QUE ES DE AUTENTICACIÓN.
 
 @Service
-public class UsuarioService implements UserDetailsService {
+public class UsuarioService implements UserDetailsService, IUsuarioService {
 	
 	//3.- ESTE MÉTODO DEVUELVE UN OBJ USERDETAILS Y OBTIENE AL USUARIO A TRAVÉS DEL USERNAME. LA CLASE USERDETAILS REPRESENTA A UN USUARIO AUTENTICADO POR SPRING SECURITY.
 	@Override
@@ -46,9 +46,18 @@ public class UsuarioService implements UserDetailsService {
 		return new User(usuario.getUsername(), usuario.getPassword(), usuario.getEnabled(), true, true, true, authorities);
 	}
 	
+	//(CLASE 97) 6.-
+	@Override
+	public Usuario findByUsername(String username) {
+		// TODO Auto-generated method stub
+		return client.findByUsername(username);
+	}
+	
+	
 	//2.-SE INYECTA BEAN DESDE LA INTERFAZ CLIENTE FEIGN QUE CONECTA CON USUARIO COMMONS
 	@Autowired
 	private UsuarioFeignClient client;
 	private Logger log = LoggerFactory.getLogger(UsuarioService.class);
+	
 
 }

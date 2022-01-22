@@ -1,5 +1,0 @@
-package com.springboot.app.oauth.services;
-
-public class UsuarioService {
-
-}
