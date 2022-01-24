@@ -60,7 +60,7 @@ public class ResourceServerConfig extends ResourceServerConfigurerAdapter {
 	public JwtAccessTokenConverter accessTokenConverter() {
 		JwtAccessTokenConverter tokenConverter = new JwtAccessTokenConverter();
 		//7.- SE AGREGA CÓDIGO SECRETO QUE ES PARA LA FIRMA DEL TOKEN
-		tokenConverter.setSigningKey("algún_código_secreto_aeiou");
+		tokenConverter.setSigningKey("algun_codigo_secreto_aeiou");
 		return tokenConverter;
 	}
 	//3
