@@ -53,6 +53,13 @@ public class UsuarioService implements UserDetailsService, IUsuarioService {
 		return client.findByUsername(username);
 	}
 	
+	//7.-(CLASE 105) SE IMPLEMENTA NUEVO MÉTODO DE LA INTERFAZ. 
+	@Override
+	public Usuario update(Usuario usuario, Long id) {
+		// TODO Auto-generated method stub
+		return client.update(usuario, id);
+	}
+	
 	
 	//2.-SE INYECTA BEAN DESDE LA INTERFAZ CLIENTE FEIGN QUE CONECTA CON USUARIO COMMONS
 	@Autowired

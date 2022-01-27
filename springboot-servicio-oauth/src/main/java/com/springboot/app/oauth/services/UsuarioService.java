@@ -54,10 +54,13 @@ public class UsuarioService implements UserDetailsService, IUsuarioService {
 	}
 	
 	
+	
+	
 	//2.-SE INYECTA BEAN DESDE LA INTERFAZ CLIENTE FEIGN QUE CONECTA CON USUARIO COMMONS
 	@Autowired
 	private UsuarioFeignClient client;
 	private Logger log = LoggerFactory.getLogger(UsuarioService.class);
+	
 	
 
 }

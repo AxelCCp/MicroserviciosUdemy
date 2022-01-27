@@ -88,6 +88,15 @@ public class Usuario implements Serializable{
 	}
 
 
+	public Integer getIntentos() {
+		return intentos;
+	}
+
+	public void setIntentos(Integer intentos) {
+		this.intentos = intentos;
+	}
+
+
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long id;
@@ -100,6 +109,10 @@ public class Usuario implements Serializable{
 	private String apellido;
 	@Column(unique=true,length=100)
 	private String email;
+	
+	//CLASE 105
+	private Integer intentos; 
+	
 	//JoinTable:...
 	//SE INDICA EL NOMBRE DE LA CLASE INTERMEDIA ENTRE ROLE Y USUARIO. SE INDICA LLAVE FORANEA DE LA CLASE PRINCIPAL "USUARIOS". SE INDICA CLAVE FORANEA DE..
 	//QUE VIENE DE LA CLASE ROLE.
